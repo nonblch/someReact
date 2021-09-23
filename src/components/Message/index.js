@@ -18,3 +18,5 @@ export const ListGroupItem = (props) => {
         {fewWords}
     </li>
 };
+
+//не создаётся pull
